@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mahmoud Aboelnaga<img width="30" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></h1>
+<h1 align="center">Hi 👋, I'm Mahmoud Aboelnaga<img width="31" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></h1>
 
 <div align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600" height="300"/>
