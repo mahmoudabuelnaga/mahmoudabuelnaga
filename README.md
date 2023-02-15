@@ -17,7 +17,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmoudabuelnaga" alt="mahmoudabuelnaga" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+## Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/mahmoudaboelnaga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoudaboelnaga" height="30" width="40" /></a>
 <a href="https://www.facebook.com/SE.MahmoudAboelnaga/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahmoudabualnaga0" height="30" width="40" /></a>
