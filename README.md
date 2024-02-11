@@ -57,6 +57,6 @@
 ![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![image](https://img.shields.io/badge/Ubuntu-252426?style=for-the-badge&logo=ubuntu&logoColor=990000)
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mahmoudabuelnaga&show_icons=true&locale=en" alt="mahmoudabuelnaga" /></p>
+# <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mahmoudabuelnaga&show_icons=true&locale=en" alt="mahmoudabuelnaga" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudabuelnaga&" alt="mahmoudabuelnaga" /></p>
+# <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudabuelnaga&" alt="mahmoudabuelnaga" /></p>
